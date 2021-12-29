@@ -6,6 +6,7 @@ labels: 'bug'
 projects: 'Vandalism'
 assignees: ''
 ---
+**Please Add The Project Vandalism To This Issue**
 
 **Describe the bug**
 A clear and concise description of what the bug is.

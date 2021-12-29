@@ -6,6 +6,7 @@ labels: 'enhancement'
 projects: 'Vandalism'
 assignees: ''
 ---
+**Please Add The Project Vandalism To This Issue**
 
 **Is your feature request related to a problem? (Is it related to a bug in game?) Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...] (Yes (why) or no)
