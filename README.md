@@ -1,7 +1,7 @@
 # Vandalism
 A Project On Roblox. 
 
-You can view our wiki and todo list here!
-Feel free to do a pull request and well check it out!
+This is currently just our todo list
 
-Any Inquiries email: knightmax22@gmail.com
+## Note
+This Project is discontinued until further notice, I tend to do this with projects until i learn alot, then start proper projects.
